@@ -1,5 +1,5 @@
 # Web-Game-Builder
-It compiles a html code from a installed game on your device. It test runs after but it needs to be run in IE because flash needs to be enabled and a pop up asks if you want to. In firefox when you go to make a acception it is a file bieng run off c: and does not offer the chance to enable flash!
+It compiles a html code from a installed game on your device. It test runs after but it needs to be run in IE because ActiveX needs to be enabled and a pop up asks if you want to. In firefox when you go to make a acception it is a file bieng run off c: and does not offer the chance to enable flash!
 
 Web Game Builder is an innovative tool for game developers to bring games or applications online. It can convert your ordinary exe games to cool web games. You needn't know Java or Flash, most work can be done in a few minutes by clicking mouse. Web Game Builder will pack the game, then generate all files automatically including the html code. The code works with complex web pages, all you have to do is to insert it anywhere you like in your page. This program will greatly save your time and effort in developing web games, make potential customers access your products more easily and build up the regular traffic by actracting them to play games on your own site. 
 
