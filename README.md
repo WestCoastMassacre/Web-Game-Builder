@@ -14,3 +14,6 @@ Benefits of using Web Game Builder
 4. Not like Java or Flash only suitable for plain 2d games, with web game builder, you can even put cutting-edge 3D games online! 
 
 5. Add new income source to your game. You can put google adsense beside the web game to get extra income! Quite a few customers of us are benefited from it!
+
+Get the program here:
+bit.ly/webgamebuilder
